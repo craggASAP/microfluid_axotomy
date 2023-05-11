@@ -3,9 +3,9 @@
 ------------------
 ## Contents
 * [Installation](#installation)
-* [Files](#files)
-	* [neurons_dumbells_jetCut](neurons_dumbells_jetCut): A set of G-Code functions to jet-print a microfluid device.
-	* [neurons_dumbell](neurons_dumbell): A script to reconfigure the fluid walls to model axotomy of human neuronal microcircuit in vitro
+* Files
+	* neurons_dumbells_jetCut.txt: A set of G-Code functions to jet-print microfluid-walled dumbbells for culturing of induced pluripotent stem cell-derived neurons with directional connectivity to recapitulate the human corticostriatal connectivity.
+	* neurons_dumbell.txt: A script to reconfigure the microfluid-walled dumbbells to model axotomy of human neuronal microcircuit in vitro
 * [License and citation](#license-and-citation)
 * [Acknowledgements](#acknowledgements)
 
@@ -17,7 +17,7 @@ These scripts use the G-Code programming language and environment. Previous expe
 
 ------------------
 ## License and Citation
-These scripts are released under the [MIT License](https://opensource.org/licenses/MIT).
+These scripts are released under the [TBD](https://opensource.org/licenses/MIT).
 
 If you use use this code in your research, please cite:
 
