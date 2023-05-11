@@ -16,8 +16,10 @@ These scripts use the G-Code programming language and environment. Previous expe
 ------------------
 ## Files
 The following files are included in this repository:
-	* neurons_dumbells_jetCut.txt: A set of G-Code functions to jet-print microfluid-walled dumbbells for culturing of induced pluripotent stem cell-derived neurons with directional connectivity to recapitulate the human corticostriatal connectivity.
-	* neurons_dumbell.txt: A script to reconfigure the microfluid-walled dumbbells to model axotomy of human neuronal microcircuit in vitro
+
+**neurons_dumbells_jetCut.txt**: A set of G-Code functions to jet-print microfluid-walled dumbbells for culturing of induced pluripotent stem cell-derived neurons with directional connectivity to recapitulate the human corticostriatal connectivity.
+
+**neurons_dumbell.txt**: A script to reconfigure the microfluid-walled dumbbells to model axotomy of human neuronal microcircuit in vitro.
 
 ------------------
 ## License and Citation
