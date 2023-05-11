@@ -17,7 +17,7 @@ These scripts use the G-Code programming language and environment. Previous expe
 
 ------------------
 ## License and Citation
-These scripts are released under the [TBD](https://opensource.org/licenses/MIT).
+These scripts are released under the [Creative Commons Zero v1.0 Universal]([https://opensource.org/licenses/MIT](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 If you use use this code in your research, please cite:
 
